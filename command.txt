@@ -1,0 +1,7 @@
+# initialize uv with python 3.12
+uv init --python 3.12
+
+# install libraries from requirements.txt 
+# this will also create virtual environment name .venv 
+uv add -r requirements.txt
+
