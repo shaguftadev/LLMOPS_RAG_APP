@@ -5,3 +5,5 @@ uv init --python 3.12
 # this will also create virtual environment name .venv 
 uv add -r requirements.txt
 
+# run file using uv
+uv run filename

@@ -7,3 +7,7 @@ chromadb
 python-dotenv
 langgraph
 ipykernel
+sentence-transformers>=6.3.0
+langchain-groq
+langchain-community
+langchain_huggingface
